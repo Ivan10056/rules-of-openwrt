@@ -1,4 +1,4 @@
-# temu 走代理
+# temu 走代理，这里试过不行，直接写到OP的优先规则里面了
 DOMAIN-SUFFIX,kuajingmaihuo.com
 DOMAIN-SUFFIX,temu.com
 DOMAIN-SUFFIX,api.kuajingmaihuo.com
