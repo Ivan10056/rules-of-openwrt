@@ -1,0 +1,13 @@
+# temu 走代理
+DOMAIN-SUFFIX,kuajingmaihuo.com
+DOMAIN-SUFFIX,temu.com
+DOMAIN-SUFFIX,api.kuajingmaihuo.com
+DOMAIN-SUFFIX,api.temu.com
+DOMAIN-SUFFIX,cdn.kuajingmaihuo.com
+DOMAIN-SUFFIX,static.temu.com
+DOMAIN-SUFFIX,track.temu.com
+DOMAIN-SUFFIX,ads.temu.com
+DOMAIN,www.kuajingmaihuo.com
+DOMAIN,shop.kuajingmaihuo.com
+DOMAIN,app.temu.com
+DOMAIN,pftk-cn.kuajingmaihuo.com
