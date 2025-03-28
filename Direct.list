@@ -610,3 +610,8 @@ DOMAIN-SUFFIX,ebay.se
 DOMAIN-SUFFIX,ebay.co.kr
 DOMAIN-SUFFIX,ebay.com.tw
 DOMAIN-KEYWORD,ebay
+DOMAIN-SUFFIX,srv.main.ebayrtm.com
+DOMAIN-SUFFIX,rover.ebay.com
+DOMAIN-SUFFIX,ir.ebaystatic.com
+DOMAIN-SUFFIX,srv.main.ebayrtm.com
+DOMAIN-SUFFIX,devicebind.ebay.com
