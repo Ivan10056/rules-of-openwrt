@@ -158,6 +158,11 @@ DOMAIN-SUFFIX,zijieimg.com
 DOMAIN-SUFFIX,zjbyte.com
 DOMAIN-SUFFIX,zjcdn.com
 
+# douyin-ad
+DOMAIN-SUFFIX,bytecdn.cn
+DOMAIN-SUFFIX,ibytecdn.cn
+
+
 # CCTV
 DOMAIN-SUFFIX,cctv.com
 DOMAIN-SUFFIX,cctvpic.com
