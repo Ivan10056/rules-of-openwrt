@@ -160,7 +160,7 @@ DOMAIN-SUFFIX,zjcdn.com
 
 # douyin-ad
 DOMAIN-SUFFIX,bytecdn.cn
-DOMAIN-SUFFIX,ibytecdn.cn
+# DOMAIN-SUFFIX,ibytecdn.cn
 
 
 # CCTV
